@@ -6,7 +6,7 @@
     <p>at present study certified tech developer.</p> 
    </h3>
    </div>
-   - - -
-   ### about Me:
-   <p> how yo reach me **ivanberredo@gmail.com** [linkedin]          (https://www.linkedin.com/in/ivan-berredo-5065981a3/) </p>
-   <p> i'm currently learning react.js, QA testing and ux/ui </p>
+   ---
+   about Me:
+   <p> - how yo reach me: **ivanberredo@gmail.com** (linkedin)[https://www.linkedin.com/in/ivan-berredo-5065981a3/] </p>
+   <p> - i'm currently learning: react.js, QA testing and ux/ui </p>
