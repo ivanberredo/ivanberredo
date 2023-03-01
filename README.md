@@ -20,4 +20,11 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="mysql" alt="mysql" width="40" height="40" /> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="40" height="40" /> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="java" alt="java" width="40" height="40" />
+   <P> </p>
+   
+   
+   ![ivanberredo GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanberredo&show_icons=true&theme=radical)
+   
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanberredo&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
