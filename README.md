@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
    <h1 align="center"> Hi, i'm you ivan </h1>
   <h3 align="left"> <p>a pasionate web fullstack developer.</p> 
     <p>i like teaching what i learn.</p>
