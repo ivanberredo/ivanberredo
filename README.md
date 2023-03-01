@@ -8,7 +8,7 @@
    </div>
    
   <div align="left">
-   <h1> about Me: </h1>
+   <h3> about Me: </h3>
    <p> - how yo reach me: <a target= "_blank" href= "https://mail.google.com/mail/u/0/#inboxivanberredo@gmail.com"> ivanberredo@gmail.com , </a> <a target= "_blank" href="https://www.linkedin.com/in/ivan-berredo-5065981a3/"> linkedin </a> </p>
    <p> - i'm currently learning: react.js, QA testing and ux/ui </p>
 </div>
